@@ -15,7 +15,7 @@ print "     ) _)  ) _ ((___)) _ ( )   /) \/ (  )(   ) _)  "
 print "    (__)  (____/    (____/(__\_)\____/ (__) (____) "
 
 print ("-"*58)
-print "  v1.0 coded by DARKHEAVEN
+print "  v1.0 coded by darkheaven
 print ("-"*58)
 print "\n"
 
